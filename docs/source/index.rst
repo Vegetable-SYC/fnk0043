@@ -1,11 +1,10 @@
-
 ######################################################
-freenove documentation for raspberry pi starter kit
+FNK0043-Freenove 4WD Smart Car Kit for Raspberry_Pi
 ######################################################
 
 .. toctree::
    :maxdepth: 1
-   :caption: FNK0066
+   :caption: FNK0043
    :glob:
 
-   fnk0066/fnk0066.rst
+   fnk0043/fnk0043-tutorial.rst
