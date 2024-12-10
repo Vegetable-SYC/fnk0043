@@ -80,6 +80,7 @@ Electronic Parts
 .. note::
 
   :red:`There are two models of connection boards, remember their version numbers.`
+  
 +---------------------------+---------------------------------+-----------------------------+
 |  Line tracking module x1  |  Camera x1                      | HC-SR04 Ultrasonic Module x1|   
 |                           |                                 |                             |   
@@ -89,7 +90,7 @@ Electronic Parts
 |                                            |                                              |   
 |    |List19|                                |    |List20|                                  |   
 +--------------------------------------------+----------------------------------------------+
-|  Connection board (PCB_V2.0)                                                              |   
+|  Jumper Wire F/F(4) x1                                                                    |   
 |                                                                                           |   
 |    |List21|                                                                               |   
 +-------------------------------------------------------------------------------------------+
